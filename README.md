@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SabirYoung 
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on porjects
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me sabiryoung2015@gmail.com
 
 <!---
